@@ -67,10 +67,10 @@ h4 span {
 	color: #55acee;
 }
 a {
-	color: #55acee;
+	color: #FFFFFF;
 }
 a:hover {
-	color: #339BEB;
+	color: #E040FB;
 }
 a:focus,
 a:active {
@@ -152,9 +152,10 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #fafafa;
-	border-top: 1px solid #f3f3f3;
-	border-bottom: 1px solid #f3f3f3;
+	color: #FFFFFF;
+	background-color: #0099ff;
+	border-top: 0px solid #f3f3f3;
+	border-bottom: 0px solid #f3f3f3;
 	padding: 40px 0;
 }
 .section {
@@ -476,7 +477,7 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #55acee;
+	color: #E040FB;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
@@ -511,7 +512,7 @@ textarea {
 /* Fixed Header
 ----------------------------------------------------------------------------- */
 .fixed-header-on .header {
-	background-color: rgba(0, 63, 76, 0.85);
+	background-color: rgba(0, 153, 255, 0.85);
 	padding: 5px 0;
 }
 .fixed-header-on .site-name {
