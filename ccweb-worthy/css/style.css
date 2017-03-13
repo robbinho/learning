@@ -153,8 +153,8 @@ blockquote {
 }
 .subfooter {
 	color: #FFFFFF;
-	background-color: #0099ff;
-	border-top: 0px solid #f3f3f3;
+	background-color: #778899;
+	border-top: 8px solid #0099ff;
 	border-bottom: 0px solid #f3f3f3;
 	padding: 40px 0;
 }
@@ -481,7 +481,7 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #55acee;
+	color: #E040FB;
 }
 @media (min-width:768px) {
 	.main-navigation .navbar-default .navbar-nav > li > a {
