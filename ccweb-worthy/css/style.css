@@ -70,7 +70,7 @@ a {
 	color: #FFFFFF;
 }
 a:hover {
-	color: #E040FB;
+	color: #d3d3d3;
 }
 a:focus,
 a:active {
@@ -477,11 +477,11 @@ textarea {
 }
 .main-navigation .navbar-default .navbar-nav > li.active > a {
 	background-color: transparent;
-	color: #E040FB;
+	color: #d3d3d3;
 }
 .main-navigation .navbar-default .navbar-nav > li > a:hover,
 .main-navigation .navbar-default .navbar-nav > li.active > a:hover {
-	color: #E040FB;
+	color: #d3d3d3;
 }
 @media (min-width:768px) {
 	.main-navigation .navbar-default .navbar-nav > li > a {
