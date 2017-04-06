@@ -153,7 +153,7 @@ blockquote {
 }
 .subfooter {
 	color: #FFFFFF;
-	background-color: #696969;
+	background-color: #585858;
 	border-top: 8px solid #0099ff;
 	border-bottom: 0px solid #f3f3f3;
 	padding: 40px 0;
@@ -227,7 +227,7 @@ blockquote {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 .translucent-bg.blue:after {
-	background-color: rgba(85, 172, 238, 0.7);
+	background-color: rgba(0, 191, 255, 0.5);
 }
 .translucent-bg .container {
 	z-index: 3;
